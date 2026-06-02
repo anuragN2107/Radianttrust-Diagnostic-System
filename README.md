@@ -1,13 +1,3 @@
-title: RadiantTrust AI Diagnostic System
-emoji: 🩺
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-app_port: 7860
-pinned: false
-short_description: CNN medical imaging diagnostic app with real-time Grad-CAM clinical heatmaps.
----
-
 # 🩺 RadiantTrust AI: Medical Imaging Diagnostics Engine
 
 An end-to-end medical application designed to analyze chest X-ray scans, classify potential anomalies, and eliminate the deep learning "black box" problem using visual attention mapping.
